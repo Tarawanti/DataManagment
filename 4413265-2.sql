@@ -15,8 +15,8 @@ VALUES('1001', '2.66', '1024', '250' ,'2114'),
         ('1013', '3.06', '512', '80' ,'529')
        
 
-       INSERT INTO [dbo].[printer]
-(model, color, type,price)
+       INSERT INTO [dbo].[Printer]
+(model, color, type, price)
 VALUES('3001','true','int-jet','99'),
         ('3002','false','laser','239'),
         ('3003','true','laser','899'),
